@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a12c6ff92fa09ac8",
+        "id": "25d48baf704ec45f",
         "type": "tabs",
         "children": [
           {
-            "id": "431b8805a0ffba50",
+            "id": "19827defc4fe7032",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/open-eular-on-qemu-riscv.md",
+                "file": "Docker Windows上网设置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "open-eular-on-qemu-riscv"
+              "title": "Docker Windows上网设置"
             }
           }
         ]
@@ -156,27 +156,49 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "431b8805a0ffba50",
+  "active": "19827defc4fe7032",
   "lastOpenFiles": [
-    "home.md",
-    "blog/hello-world.md",
-    "blog/open-eular-on-qemu-riscv.md",
-    "template/post.template.md",
-    "template/wiki.template.md",
+    "关于我.md",
+    "在看的ACGN.md",
+    "Docker Windows上网设置.md",
+    "Docker镜像下载失败怎么办.md",
     "index.md",
-    "about-me.md",
-    "2024-11-14.md",
-    "未命名 3.md",
-    "未命名.md",
-    "未命名 4.md",
-    "未命名 2.md",
-    "未命名 1.md",
-    "blog/未命名"
+    "WSL.md",
+    "Quartz.md",
+    "娱乐/辛普森一家.md",
+    "JavaScript.md",
+    "Linux命令行解压.md",
+    "Python.md",
+    "Quartz兼容的front-matter.md",
+    "Microsoft To Do.md",
+    "blog/你好，世界.md",
+    "娱乐/迷宫饭.md",
+    "娱乐/Matt Groening.md",
+    "娱乐/飞出个未来.md",
+    "娱乐/崩坏梦王国.md",
+    "娱乐/室内露营.md",
+    "娱乐/摇曳露营.md",
+    "blog.md",
+    "娱乐",
+    "娱乐/动画",
+    "娱乐/系列",
+    "娱乐",
+    "Docker.md",
+    "WSL2 占位程序接收到错误数据.md",
+    "Markdown语法.md",
+    "sidebar/主页.md",
+    "blog/index.md",
+    "sidebar",
+    "attachments/Pasted image 20241117023356.png",
+    "attachments",
+    "blog/attachments/Pasted image 20241116211740.png",
+    "blog/attachments",
+    "blog/2024",
+    "templates",
+    "notes"
   ]
 }
