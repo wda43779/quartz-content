@@ -6,7 +6,7 @@ date: 2024-11-14
 
 - 24.03LTS的文档： https://docs.openeuler.org/en/docs/24.03_LTS/docs/Installation/RISC-V-QEMU.html
 - 23年9月的安装博文： https://www.openeuler.org/en/blog/phoebe/2023-09-26-Run-openEuler-RISC-V-On-Qemu.html
-- 
+
 # 大致流程
 
 - 安装qemu
