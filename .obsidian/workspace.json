@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "25d48baf704ec45f",
+        "id": "b7f86f9096967904",
         "type": "tabs",
         "children": [
           {
-            "id": "19827defc4fe7032",
+            "id": "b20f2679ee379ddd",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/community-plugins.json",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (community-plugins.json)"
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -170,15 +170,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19827defc4fe7032",
+  "active": "b20f2679ee379ddd",
   "lastOpenFiles": [
-    "Docker Windows上网设置.md",
     "关于我.md",
+    "Quartz.md",
+    "Docker.md",
+    "Docker Windows上网设置.md",
     "在看的ACGN.md",
     "Docker镜像下载失败怎么办.md",
     "index.md",
     "WSL.md",
-    "Quartz.md",
     "娱乐/辛普森一家.md",
     "JavaScript.md",
     "Linux命令行解压.md",
@@ -197,7 +198,6 @@
     "娱乐/动画",
     "娱乐/系列",
     "娱乐",
-    "Docker.md",
     "WSL2 占位程序接收到错误数据.md",
     "Markdown语法.md",
     "sidebar/主页.md",
