@@ -11,14 +11,16 @@ aliases:
 # 计算机
 
 编程语言：[[JavaScript]] [[Python]] [[Java]] [[Rust]]
-前端：[[JavaScript]] [[TypeScript]] [[React]]
+- 前端：
+	- 语言：[[JavaScript]] [[TypeScript]] [[React]]
+	- [[npm]] - [[npm收藏夹]]
 开发工具：[[Docker]]
 # 人工智能
 [[CUDA]]
 # 个人信息管理
 - [[Obisidian]]
 	- 同步方式：官方同步
-	- 发布工具 [[Quartz]]
+	- 发布工具： [[Quartz]]
 - [[Microsoft To Do]]
 # 娱乐
 [[在看的ACGN]]
