@@ -7,7 +7,11 @@
 - 留一个上传脚本
 
 # NGINX的文件权限
-对于静态网站，在文件夹上至少要rx权限，文件上要有r权限。搞了半天中越调整了一个能用的rsync命令。找问题的时候还以为是[[Quartz]]的示例写错了，结果是`/var/www/html` 的权限搞不明白。
+对于静态网站，在文件夹上至少要rx权限，文件上要有r权限。搞了半天中越调整了一个能用的rsync命令。
+
+找问题的时候还以为是[[Quartz]]的示例写错了，结果是`/var/www/html` 的权限搞不明白。
+
+没搜到Windows版本的rsync，还得从WSL里面借。
 
 ```powershell
 npx quartz build
